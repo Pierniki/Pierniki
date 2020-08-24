@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - Just earned my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
 - Currently working on some cool projects to fill up my portfolio 🤓. (I probably got them pinned 📌, take a look!)
 
-### My techstack:
+### Technologies I work with:
 
 - JS (ES6)
 - React
-- Node.js
+- Node
 - Express
 - MongoBD
 - Docker
