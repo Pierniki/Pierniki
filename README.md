@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 🤠
 
 <!--
 **Pierniki/Pierniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm a Fullstack developer livin' the dream in Gdańsk, Poland.
+
+- Just earned my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
+- Currently working on some cool projects to fill up my portfolio 🤓. (I probably got them pinned 📌, take a look!)
