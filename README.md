@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - React
 - Node
 - Express
-- MongoBD
+- MongoDB
 - Docker
 - Typescript
