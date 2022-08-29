@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 ### I'm a Fullstack developer livin' the dream in Gdańsk, Poland.
 
-- Just earned my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
-- Currently working on some cool projects to fill up my portfolio 🤓. (I probably got them pinned 📌, take a look!)
+- Just got (2 years ago, time flies) my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
+- Currently checking out [T3 Stack](https://create.t3.gg/) and getting kinda hyped. 😎
 
-### Technologies I work with:
+### Technologies I 💖 to work with: 
 
-- JS (ES6)
-- React
-- Node
-- Express
-- MongoDB + Mongoose
-- Docker
 - Typescript
+- React.js
+- Next.js
+- Tailwind CSS 
+- Prisma (getting there)
