@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - Typescript
 - React.js
 - Next.js
-- Tailwind CSS 
+- Tailwind CSS
+- Three.js
 - Prisma (getting there)
