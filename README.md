@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a Fullstack developer livin' the dream in Gdańsk, Poland.
 
-- Just got (2 years ago, time flies) my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
-- Currently checking out [T3 Stack](https://create.t3.gg/) and getting kinda hyped. 😎
+- "*Just*" ( ***n** years ago* ) got my Bachelor's Degree in Computer Science at the Univeristy of Gdańsk 📚.
 
 ### Technologies I 💖 to work with: 
 
