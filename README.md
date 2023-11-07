@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - React.js
 - Next.js
 - Tailwind CSS
-- Three.js
-- Prisma (getting there)
