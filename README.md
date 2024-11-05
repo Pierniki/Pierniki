@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - React.js
 - Next.js
 - Tailwind CSS
+
+## I'm sorry for the empty'ish activity log, I swear I'm still programmin, they made me use Gitlab at work 😭
+
