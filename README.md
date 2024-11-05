@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 - Next.js
 - Tailwind CSS
 
-#### I'm sorry for the empty'ish activity log, I swear I'm still programmin, they made me use Gitlab at work 😭
-
+#### I'm sorry for the empty-ish activity log; I swear I'm still programming. They made me use GitLab at work. 😭
